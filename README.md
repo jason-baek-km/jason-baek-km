@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 [![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
 [![android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
 [![ios](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://www.apple.com/ios/)
-
-## 💬 Social
-
